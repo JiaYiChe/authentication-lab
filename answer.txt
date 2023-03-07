@@ -1,0 +1,9 @@
+Q1:authentication scheme used in Django Rest Framework's browsable API is session authentication. It is managed by the framework itself, which checks for the presence of a valid session cookie in each request.
+
+Q2:httpie uses basic authentication scheme by default when the -a or --auth option flag is used to provide credentials for a request.
+
+Q3:
+
+Q4:
+
+Q5:
