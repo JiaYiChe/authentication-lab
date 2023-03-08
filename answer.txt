@@ -2,8 +2,10 @@ Q1:authentication scheme used in Django Rest Framework's browsable API is sessio
 
 Q2:httpie uses basic authentication scheme by default when the -a or --auth option flag is used to provide credentials for a request.
 
-Q3:
+Q3:Session authentication creates a session between the user and the server, while token authentication issues a unique token to the user. 
+Token authentication is an improvement over basic authentication as it does not require the server to store user credentials, is more secure, and more scalable.
 
-Q4:
+Q4:When click "Log in with Google" on a website that uses OAuth2 for authentication, the website sends an authentication request to Google, and if you grant permission, Google sends an access token to the website. 
+The website can use this token to access your Google account data, and you are now logged in to the website using your Google account.
 
-Q5:
+Q5:https://github.com/JiaYiChe/authentication-lab
